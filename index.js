@@ -1,3 +1,3 @@
 function loghappyHolidays(string){
-console.log ("Happy holidays!")
+return string ("happy holiday!")
 }
