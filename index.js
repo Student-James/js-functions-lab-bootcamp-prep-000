@@ -1,3 +1,3 @@
 function happyHolidays(string){
-return ("Happy holiday!")
+return ("Happy holidays!")
 }
